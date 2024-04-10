@@ -37,7 +37,10 @@ https://github.com/sergey84111/zabbix_HW/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%B
 
 https://github.com/sergey84111/zabbix_HW/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-04-10%20170626.png
 
-git add
+git add .
+git commit
+git push https://github.com/sergey84111/zabbix_HW.git
+
 
 
 
